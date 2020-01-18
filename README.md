@@ -1,1 +1,1 @@
-# CS504_Prnciples_of_DataMining
+# CS504_Principles_of_DataMining
